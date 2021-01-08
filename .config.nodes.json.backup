@@ -720,7 +720,7 @@
     "node-red-contrib-countdown-2": {
         "name": "node-red-contrib-countdown-2",
         "version": "1.4.0",
-        "local": false,
+        "local": true,
         "nodes": {
             "countdown": {
                 "name": "countdown",

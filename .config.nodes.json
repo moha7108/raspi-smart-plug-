@@ -733,5 +733,22 @@
                 "file": "/home/pi/.node-red/node_modules/node-red-contrib-countdown-2/countdown.js"
             }
         }
+    },
+    "node-red-contrib-ui-led": {
+        "name": "node-red-contrib-ui-led",
+        "version": "0.3.3",
+        "local": false,
+        "nodes": {
+            "ui_led": {
+                "name": "ui_led",
+                "types": [
+                    "ui_led"
+                ],
+                "enabled": true,
+                "local": true,
+                "module": "node-red-contrib-ui-led",
+                "file": "/home/pi/.node-red/node_modules/node-red-contrib-ui-led/led.js"
+            }
+        }
     }
 }

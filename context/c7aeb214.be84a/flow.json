@@ -1,4 +1,4 @@
 {
-    "device1_offInterval": 6,
-    "device1_onInterval": 7
+    "device_onInterval": 60,
+    "device_offInterval": 60
 }
