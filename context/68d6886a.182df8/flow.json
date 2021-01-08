@@ -1,0 +1,5 @@
+{
+    "start_state": "on",
+    "device_onInterval": 3661,
+    "device_offInterval": 3661
+}
